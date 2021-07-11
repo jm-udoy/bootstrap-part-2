@@ -1,0 +1,24 @@
+.box{
+	min-height: 100px;
+	background-color: blueviolet;
+	margin-bottom: 10px;
+}
+
+.mh-300{
+	min-height: 300px;
+	background-color: lightblue;
+	border: 1px solid blueviolet;
+}
+
+.head-color{
+	color: blueviolet;
+}
+
+.mar-tb{
+	margin: 20px 0;
+}
+
+.box2{
+	margin: 5px;
+	background-color: blueviolet;
+}
